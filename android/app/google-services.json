@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1034423726177",
+    "project_id": "seekers-b5b96",
+    "storage_bucket": "seekers-b5b96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034423726177:android:d40dc282f06f9127317a20",
+        "android_client_info": {
+          "package_name": "com.example.seeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034423726177-897e8lh2par4t249apa44o04eic27goj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnPts3Xpv2tcCy8ZPb7uMz_UlfTXNLo_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034423726177-897e8lh2par4t249apa44o04eic27goj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034423726177-ogstd4rdpjdeh2blvpcho1b176avsakq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seeker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
